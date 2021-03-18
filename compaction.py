@@ -1,4 +1,4 @@
-from modules import valuation_module as vm
+import valuation_module as vm
 
 # The other module does all of the hard work. This model just calls the functions in valuation_module,
 # to make the Jupyter Notebook as clean and user-friendly as possible.
