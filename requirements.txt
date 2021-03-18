@@ -1,0 +1,6 @@
+numpy used to include financial formulas, but now they're deprecated.
+Now they're in a separate module called numpy-financial.
+
+pip install numpy-financial
+
+Once that's done, open The Notebook.ipynb
